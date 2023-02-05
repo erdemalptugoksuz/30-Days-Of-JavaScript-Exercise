@@ -58,3 +58,6 @@
 ## Supported Languages
   * 🇬🇧 [English](./README.md)  
   * 🇹🇷 [Turkish](./Turkish/README.md)
+
+## Support to Organizer
+  * [Ad Link](https://ay.live/lYtYWg)
