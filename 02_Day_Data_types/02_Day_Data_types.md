@@ -252,7 +252,7 @@ console.log(total) // 30000
 | Flag |                                                                       Language                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 🇬🇧   |                                                             [English](./02_Day_Data_types.md)                                                             |
-| 🇹🇷   |                                                             [Turkish](./Turkish/02_Day_Data_types/02_Day_Data_types.md)                                                             |
+| 🇹🇷   |                                                             [Turkish](./Turkish/../02_Day_Data_types.md)                                                             |
 
 ## Support to Organizer
 | Link Name |                                                                       Link                                                                        |
