@@ -52,8 +52,9 @@
 <a href="https://www.linkedin.com/in/erdemalptugoksuz/" target="_blank">Erdem Alptuğ Öksüz</a><br>
 <small> February, 2023</small>
 </sub>
-<div>
-  🇬🇧 [English](./readMe.md)
-  🇹🇷 [Turkish](./Turkish/readMe.md)
-</div>
 
+
+<br>
+
+  🇬🇧 [English](./README.md)  
+  🇹🇷 [Turkish](./Turkish/README.md)
