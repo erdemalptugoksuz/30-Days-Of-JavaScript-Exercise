@@ -53,8 +53,8 @@
 <small> February, 2023</small>
 </sub>
 
+</div>
 
-<br>
-
-  🇬🇧 [English](./README.md)  
-  🇹🇷 [Turkish](./Turkish/README.md)
+## Supported Languages
+  * 🇬🇧 [English](./README.md)  
+  * 🇹🇷 [Turkish](./Turkish/README.md)
