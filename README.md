@@ -1,6 +1,6 @@
 # 30 Days Of JavaScript: Exercise Answers
 
-| # Day |                                                                       Topics                                                                        |
+| Day |                                                                       Topics                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 01    |                                                             [Introduction](./README.md)                                                             |
 | 02    |                                               [Data Types](./02_Day_Data_types/02_Day_Data_types.md)                                                |
