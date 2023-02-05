@@ -26,8 +26,6 @@
 | 22    |                            [Manipulating DOM Object](./22_Day_Manipulating_DOM_object/22_Day_Manipulating_DOM_object.md)                            |
 | 23    |                                        [Event Listeners](./23_Day_Event_listeners/23_Day_Event_listeners.md)                                        |
 
-🧡🧡🧡 HAPPY CODING 🧡🧡🧡
-
 <div align="center">
   <h1> 30 Days Of JavaScript: Exercises Answers</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
