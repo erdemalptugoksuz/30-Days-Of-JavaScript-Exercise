@@ -26,8 +26,6 @@
 | 22    |                            [Dom Manipülasyonu](./22_Day_Manipulating_DOM_object/22_Day_Manipulating_DOM_object.md)                            |
 | 23    |                                        [Olay Tetikleyiciler](./23_Day_Event_listeners/23_Day_Event_listeners.md)                                        |
 
-🧡🧡🧡 MUTLU KODLAMALAR 🧡🧡🧡
-
 <div align="center">
   <h1> 30 Günde JavaScript: Alıştırma Cevapları</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
@@ -56,8 +54,13 @@
 </div>
 
 ## Desteklenen Diller
-  * 🇬🇧 [İngilizce](../README.md)  
-  * 🇹🇷 [Türkçe](./README.md)
+| Bayrak |                                                                       Dil                                                                        |
+| ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 🇬🇧   |                                                             [İngilizce](../README.md)                                                             |
+| 🇹🇷   |                                                             [Türkçe](./README.md)
 
 ## Düzenleyiciyi Destekle
-  * [Reklamlı Link](https://ay.live/lYtYWg)
+| Link Adı |                                                                       Link                                                                        |
+| ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Link 1   |                                                             [Reklamlı Link](https://ay.live/lYtYWg)
+
