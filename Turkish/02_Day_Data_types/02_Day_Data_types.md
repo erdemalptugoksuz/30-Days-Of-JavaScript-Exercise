@@ -28,7 +28,7 @@
 ## Desteklenen Diller
 | Bayrak |                                                                       Dil                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 🇬🇧   |                                                             [İngilizce](../02_Day_Data_types/02_Day_Data_types.md)                                                             |
+| 🇬🇧   |                                                             [İngilizce](/02_Day_Data_types/02_Day_Data_types.md)                                                             |
 | 🇹🇷   |                                                             [Türkçe](./02_Day_Data_types.md)                                                             |
 
 ## Düzenleyiciyi Destekle
