@@ -56,8 +56,8 @@
 </div>
 
 ## Desteklenen Diller
-  * 🇬🇧 [İngilizce](./README.md)  
-  * 🇹🇷 [Türkçe](./Turkish/README.md)
+  * 🇬🇧 [İngilizce](../README.md)  
+  * 🇹🇷 [Türkçe](./README.md)
 
 ## Düzenleyiciyi Destekle
   * [Reklamlı Link](https://ay.live/lYtYWg)
