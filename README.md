@@ -40,6 +40,8 @@
 <small> January, 2020</small>
 </sub>
 
+[Main Repo](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+
 <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/erdemalptugoksuz/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
