@@ -1,6 +1,6 @@
-# 30 Days Of JavaScript: Exercise Answers
+# 30 Günde JavaScript: Alıştırma Cevapları
 
-| # Day |                                                                       Topics                                                                        |
+| # Gün |                                                                       Dersler                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 01    |                                                             [Giriş](./README.md)                                                             |
 | 02    |                                               [Veri Tipleri](./02_Day_Data_types/02_Day_Data_types.md)                                                |
