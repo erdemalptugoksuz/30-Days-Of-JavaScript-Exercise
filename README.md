@@ -1,4 +1,4 @@
-# 30 Days Of JavaScript Exercise Answers
+# 30 Days Of JavaScript: Exercise Answers
 
 | # Day |                                                                       Topics                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -38,6 +38,11 @@
   </a>
 
 <sub>Author:
+<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<small> January, 2020</small>
+</sub>  
+  
+<sub>Organizer:
 <a href="https://www.linkedin.com/in/erdemalptugoksuz/" target="_blank">Erdem Alptuğ Öksüz</a><br>
 <small> February, 2023</small>
 </sub>
