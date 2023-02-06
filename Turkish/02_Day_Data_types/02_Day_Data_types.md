@@ -39,7 +39,7 @@
 
 ## 💻 Gün 2: Alıştırmalar
 
-### Alıştırmalar: Seviye 1
+### Egzersiz: Seviye 1
 1. challenge adında bir değişken tanımlayın ve başlangıç değerini **'30 Days Of JavaScript'** olarak atayın.
 ```js
 let challenge = '30 Days Of JavaScript'
@@ -143,7 +143,7 @@ console.log(first.concat(' ', second)) // 30 Days of JavaScript
 console.log(challenge.repeat(2)) // 30 Days Of JavaScript30 Days Of JavaScript
 ```
 
-### Alıştırmalar: Seviye 2
+### Egzersiz: Seviye 2
 
 1. **console.log()** ile aşağıdaki ifadeyi yazdırın:
 ```sh
@@ -228,7 +228,7 @@ console.log(str.substr(31, 23)) // because because because
 4- Calculate the person's total annual income by extracting the numbers from the following text. 'He earns 5000 euro from salary per month, 10000 euro annual bonus, 15000 euro online courses per month.'
 
 
-### Alıştırmalar: Seviye 3
+### Egzersiz: Seviye 3
 
 1. 'Love is the best thing in this world. Some found their love and some are still looking for their love.' ifadesindeki **love** ifadesinin kaç kez geçtiğini bulun.
 ```js

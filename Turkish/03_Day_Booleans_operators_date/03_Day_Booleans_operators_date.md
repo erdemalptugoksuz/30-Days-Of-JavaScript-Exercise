@@ -38,7 +38,7 @@
 
 ## 💻 Gün 3: Alıştırmalar
 
-### Alıştırmalar: Seviye 1
+### Egzersiz: Seviye 1
 
 1. firstName, lastName, country, city, age, isMarried, year değişkenlerini tanımlayın ve değerlerini atayın. Türlerini kontrol edin.
 ```js
