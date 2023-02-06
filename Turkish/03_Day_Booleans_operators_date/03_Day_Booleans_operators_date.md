@@ -292,4 +292,4 @@ let minute = date.getMinutes()
 console.log(`${year}-${month}-${day} ${hour.toString().padStart(2, '0')}:${minute.toString().padStart(2, '0')}`)
 ```
 
-[<< Day 2](../02_Day_Data_types/02_Day_Data_types.md) | [Day 4 >>](../04_Day_Conditionals/04_Day_Conditionals.md)
+[<< Gün 2](../02_Day_Data_types/02_Day_Data_types.md) | [Gün 4 >>](../04_Day_Conditionals/04_Day_Conditionals.md)

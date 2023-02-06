@@ -272,4 +272,4 @@ let numbers = text.match(/\d+/g)
 let total = numbers.reduce((a, b) => parseInt(a) + parseInt(b))
 console.log(total) // 30000
 ```
-[Day 3 >>](./../03_Day_Booleans_operators_date/03_Day_Booleans_operators_date.md)
+[Gün 3 >>](./../03_Day_Booleans_operators_date/03_Day_Booleans_operators_date.md)
