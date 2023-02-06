@@ -28,8 +28,8 @@
 ## Supported Languages
 | Flag |                                                                       Language                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 🇬🇧   |                                                             [English](./03_Day_Booleans_operators_date.md)                                                             |
-| 🇹🇷   |                                                             [Turkish](./Turkish/../../Turkish/03_Day_Booleans_operators_date/03_Day_Booleans_operators_date.md)                                                             |
+| 🇬🇧   |                                                             [English](/English/03_Day_Booleans_operators_date/03_Day_Booleans_operators_date.md)                                                             |
+| 🇹🇷   |                                                             [Turkish](/Turkish/03_Day_Booleans_operators_date/03_Day_Booleans_operators_date.md)                                                             |
 
 ## Support to Organizer
 | Link Name |                                                                       Link                                                                        |
@@ -292,4 +292,4 @@ let minute = date.getMinutes()
 console.log(`${year}-${month}-${day} ${hour.toString().padStart(2, '0')}:${minute.toString().padStart(2, '0')}`)
 ```
 
-[<< Day 2](../02_Day_Data_types/02_Day_Data_types.md) | [Day 4 >>](../04_Day_Conditionals/04_Day_Conditionals.md)
+[<< Day 2](/English/02_Day_Data_types/02_Day_Data_types.md) | [Day 4 >>](/English/04_Day_Conditionals/04_Day_Conditionals.md)

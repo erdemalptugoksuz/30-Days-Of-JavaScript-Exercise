@@ -28,8 +28,8 @@
 ## Supported Languages
 | Flag |                                                                       Language                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 🇬🇧   |                                                             [English](./02_Day_Data_types.md)                                                             |
-| 🇹🇷   |                                                             [Turkish](./Turkish/../../Turkish/02_Day_Data_types/02_Day_Data_types.md)                                                             |
+| 🇬🇧   |                                                             [English](/English/02_Day_Data_types/02_Day_Data_types.md)                                                             |
+| 🇹🇷   |                                                             [Turkish](/Turkish/02_Day_Data_types/02_Day_Data_types.md)                                                             |
 
 ## Support to Organizer
 | Link Name |                                                                       Link                                                                        |
@@ -257,4 +257,4 @@ let numbers = text.match(/\d+/g)
 let total = numbers.reduce((a, b) => parseInt(a) + parseInt(b))
 console.log(total) // 30000
 ```
-[Day 3 >>](../03_Day_Booleans_operators_date/03_Day_Booleans_operators_date.md)
+[Day 3 >>](/English/03_Day_Booleans_operators_date/03_Day_Booleans_operators_date.md)
