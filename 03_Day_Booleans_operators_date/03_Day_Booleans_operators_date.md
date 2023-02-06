@@ -28,8 +28,8 @@
 ## Supported Languages
 | Flag |                                                                       Language                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 🇬🇧   |                                                             [English](./02_Day_Data_types.md)                                                             |
-| 🇹🇷   |                                                             [Turkish](./Turkish/../../Turkish/02_Day_Data_types/02_Day_Data_types.md)                                                             |
+| 🇬🇧   |                                                             [English](./03_Day_Booleans_operators_date.md)                                                             |
+| 🇹🇷   |                                                             [Turkish](./Turkish/../../Turkish/03_Day_Booleans_operators_date/03_Day_Booleans_operators_date.md)                                                             |
 
 ## Support to Organizer
 | Link Name |                                                                       Link                                                                        |
