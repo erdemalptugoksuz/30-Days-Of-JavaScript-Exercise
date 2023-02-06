@@ -28,7 +28,7 @@
 ## Desteklenen Diller
 | Bayrak |                                                                       Dil                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 🇬🇧   |                                                             [İngilizce](../03_Day_Booleans_operators_date/03_Day_Booleans_operators_date.md)                                                             |
+| 🇬🇧   |                                                             [İngilizce](/03_Day_Booleans_operators_date/03_Day_Booleans_operators_date.md)                                                             |
 | 🇹🇷   |                                                             [Türkçe](./03_Day_Booleans_operators_date.md)                                                             |
 
 ## Düzenleyiciyi Destekle
