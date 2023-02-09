@@ -37,7 +37,7 @@
 | Link 1   |                                                             [Reklamlı Link](https://ay.live/4ZnC)
 
 
-## 💻 Gün 2: Alıştırmalar
+## 💻 Gün 2: Egzersizler
 
 ### Egzersiz: Seviye 1
 1. challenge adında bir değişken tanımlayın ve başlangıç değerini **'30 Days Of JavaScript'** olarak atayın.
