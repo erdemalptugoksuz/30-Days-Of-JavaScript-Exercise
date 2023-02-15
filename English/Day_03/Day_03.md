@@ -1,40 +1,29 @@
 <div align="center">
-  <h1> 30 Days Of JavaScript: Exercises Answers | Day 3</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
-</sub>
-
-<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/erdemalptugoksuz/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  <h1>Exercises Answers | Booleans, Operators, Date</h1>
+  <br>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/erdemalptugoksuz/">
+    <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
   <a class="header-badge" target="_blank" href="https://twitter.com/heyahtuput">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Erdem Alptuğ?style=social">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Erdem Alptuğ?style=social">
   </a><br>
-<sub>Organizer:
-<a href="https://www.linkedin.com/in/erdemalptugoksuz/" target="_blank">Erdem Alptuğ Öksüz</a><br>
-<small> February, 2023</small>
-</sub>
-
+  <sub>Organizer:
+    <a href="https://www.linkedin.com/in/erdemalptugoksuz/" target="_blank">Erdem Alptuğ Öksüz</a><br>
+    <small> February, 2023</small>
+  </sub>
 </div>
 
 ## Supported Languages
-| Flag |                                                                       Language                                                                        |
-| ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 🇬🇧   |                                                             [English](/English/03_Day_Booleans_operators_date/03_Day_Booleans_operators_date.md)                                                             |
-| 🇹🇷   |                                                             [Turkish](/Turkish/03_Day_Booleans_operators_date/03_Day_Booleans_operators_date.md)                                                             |
+| Flag  |                                                                       Language                                                                        |
+| ----- | :----------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 🇬🇧    |                                                             [English](/English/Day_03/Day_03.md)                                                      |
+| 🇹🇷    |                                                             [Turkish](/Turkish/Day_03/Day_03.md)                                                      |
 
 ## Support to Organizer
 | Link Name |                                                                       Link                                                                        |
-| ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Link 1   |                                                             [Ad Link](https://ay.live/gOmq4a)
+| ----- | :----------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Link 1   |                                                             [Ad Link](https://ay.live/AK4n)
+
 
 ## 💻 Day 3: Exercises
 
@@ -292,4 +281,4 @@ let minute = date.getMinutes()
 console.log(`${year}-${month}-${day} ${hour.toString().padStart(2, '0')}:${minute.toString().padStart(2, '0')}`)
 ```
 
-[<< Day 2](/English/02_Day_Data_types/02_Day_Data_types.md) | [Day 4 >>](/English/04_Day_Conditionals/04_Day_Conditionals.md)
+[<< Day 2](/English/Day_02/Day_02.md) | [Day 4 >>](/English/Day_04/Day_04.md)
