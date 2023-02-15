@@ -1,67 +1,50 @@
 # 30 Günde JavaScript: Alıştırma Cevapları
 
-| Gün |                                                                       Ders                                                                       |
-| ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 01    |                                                             [Giriş](./README.md)                                                             |
-| 02    |                                               [Veri Tipleri](./02_Day_Data_types/02_Day_Data_types.md)                                                |
-| 03    |                             [Boolean, Operatörler, Tarih](./03_Day_Booleans_operators_date/03_Day_Booleans_operators_date.md)                             |
-| 04    |                                            [Koşullar](./04_Day_Conditionals/04_Day_Conditionals.md)                                             |
-| 05    |                                                     [Diziler](./05_Day_Arrays/05_Day_Arrays.md)                                                      |
-| 06    |                                                       [Döngüler](./06_Day_Loops/06_Day_Loops.md)                                                       |
-| 07    |                                                 [Fonksiyonlar](./07_Day_Functions/07_Day_Functions.md)                                                 |
-| 08    |                                                    [Nesneler](./08_Day_Objects/08_Day_Objects.md)                                                    |
-| 09    |                             [Yüksek Dereceli Fonksiyonlar](./09_Day_Higher_order_functions/09_Day_Higher_order_functions.md)                              |
-| 10    |                                           [Setler Ve Haritalar](./10_Day_Sets_and_Maps/10_Day_Sets_and_Maps.md)                                           |
-| 11    |                      [Yıkıcılar Ve Yapıcılar](./11_Day_Destructuring_and_spreading/11_Day_Destructuring_and_spreading.md)                      |
-| 12    |                                  [Düzenli İfadeler](./12_Day_Regular_expressions/12_Day_Regular_expressions.md)                                  |
-| 13    |                             [Consol Nesne Metodları](./13_Day_Console_object_methods/13_Day_Console_object_methods.md)                              |
-| 14    |                                         [Hata Yönetimi](./14_Day_Error_handling/14_Day_Error_handling.md)                                          |
-| 15    |                                                    [Sınıflar](./15_Day_Classes/15_Day_Classes.md)                                                    |
-| 16    |                                                        [JSON](./16_Day_JSON/16_Day_JSON.md)                                                         |
-| 17    |                                            [Web Depoları](./17_Day_Web_storages/17_Day_Web_storages.md)                                             |
-| 18    |                                                  [Promise'ler](./18_Day_Promises/18_Day_Promises.md)                                                   |
-| 19    |                                                   [Closure](./19_Day_Closures/19_Day_Closures.md)                                                   |
-| 21    |                                                          [DOM](./21_Day_DOM/21_Day_DOM.md)                                                          |
-| 22    |                            [Dom Manipülasyonu](./22_Day_Manipulating_DOM_object/22_Day_Manipulating_DOM_object.md)                            |
-| 23    |                                        [Olay Tetikleyiciler](./23_Day_Event_listeners/23_Day_Event_listeners.md)                                        |
-
 <div align="center">
-  <h1> 30 Günde JavaScript: Alıştırma Cevapları</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Oluşturucu:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> Ocak, 2020</small>
-</sub>
-
-[Ana Repo](https://github.com/Asabeneh/30-Days-Of-JavaScript)
-
-<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/erdemalptugoksuz/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/erdemalptugoksuz/">
+    <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
   <a class="header-badge" target="_blank" href="https://twitter.com/heyahtuput">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Erdem Alptuğ?style=social">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Erdem Alptuğ?style=social">
   </a><br>
-<sub>Düzenleyen:
-<a href="https://www.linkedin.com/in/erdemalptugoksuz/" target="_blank">Erdem Alptuğ Öksüz</a><br>
-<small> Şubat, 2023</small>
-</sub>
+  <sub>Düzenleyen:
+    <a href="https://www.linkedin.com/in/erdemalptugoksuz/" target="_blank">Erdem Alptuğ Öksüz</a><br>
+    <small> Şubat, 2023</small>
+  </sub>
+</div><br>
 
-</div>
+| Gün   |                                                                       Dersler                                                                              |
+| ----- | :---------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 01    |                                                             [Giriş](/Turkish/README.md)                                                                    |
+| 02    |                                                             [Veri Tipleri](/Turkish/Day_02/Day_02.md)                                                      |
+| 03    |                                                             [Boolean, Operatörler, Tarih](/Turkish/Day_03/Day_03.md)                                       |
+| 04    |                                                             [Koşullar](/Turkish/Day_04/Day_04.md)                                                          |
+| 05    |                                                             [Diziler](/Turkish/Day_05/Day_05.md)                                                           |
+| 06    |                                                             [Döngüler](/Turkish/Day_06/Day_06.md)                                                          |
+| 07    |                                                             [Fonksiyonlar](/Turkish/Day_07/Day_07.md)                                                      |
+| 08    |                                                             [Nesneler](/Turkish/Day_08/Day_08.md)                                                          |
+| 09    |                                                             [Yüksek Dereceli Fonksiyonlar](/Turkish/Day_09/Day_09.md)                                      |
+| 10    |                                                             [Setler Ve Haritalar](/Turkish/Day_10/Day_10.md)                                               |
+| 11    |                                                             [Yıkıcılar Ve Yapıcılar](/Turkish/Day_11/Day_11.md)                                            |
+| 12    |                                                             [Düzenli İfadeler](/Turkish/Day_12/Day_12.md)                                                  |
+| 13    |                                                             [Consol Nesne Metodları](/Turkish/Day_13/Day_13.md)                                            |
+| 14    |                                                             [Hata Yönetimi](/Turkish/Day_14/Day_14.md)                                                     |
+| 15    |                                                             [Sınıflar](/Turkish/Day_15/Day_15.md)                                                          |
+| 16    |                                                             [JSON](/Turkish/Day_16/Day_16.md)                                                              |
+| 17    |                                                             [Web Depoları](/Turkish/Day_17/Day_17.md)                                                      | 
+| 18    |                                                             [Promise'ler](/Turkish/Day_18/Day_18.md)                                                       |
+| 19    |                                                             [Closure](/Turkish/Day_19/Day_19.md)                                                           |
+| 21    |                                                             [DOM](/Turkish/Day_21/Day_21.md)                                                               |
+| 22    |                                                             [Dom Manipülasyonu](/Turkish/Day_22/Day_22.md)                                                 |
+| 23    |                                                             [Olay Tetikleyiciler](/Turkish/Day_23/Day_23.md)                                               |
 
 ## Desteklenen Diller
-| Bayrak |                                                                       Dil                                                                        |
-| ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 🇬🇧   |                                                             [İngilizce](../README.md)                                                             |
-| 🇹🇷   |                                                             [Türkçe](./README.md)
+| Bayrak |                                                                       Dil                                                                             |
+| -----  | :-------------------------------------------------------------------------------------------------------------------------------------------------:   |
+| 🇬🇧     |                                                             [İngilizce](/README.md)                                                                    |
+| 🇹🇷     |                                                             [Türkçe](/Turkish/README.md)
 
 ## Düzenleyiciyi Destekle
 | Link Adı |                                                                       Link                                                                        |
-| ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Link 1   |                                                             [Reklamlı Link](https://ay.live/lYtYWg)
-
+| ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------:   |
+| Link 1   |                                                           [Reklamlı Link](https://ay.live/lYtYWg)
