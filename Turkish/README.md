@@ -21,7 +21,6 @@
 | 17    |                                            [Web Depoları](./17_Day_Web_storages/17_Day_Web_storages.md)                                             |
 | 18    |                                                  [Promise'ler](./18_Day_Promises/18_Day_Promises.md)                                                   |
 | 19    |                                                   [Closure](./19_Day_Closures/19_Day_Closures.md)                                                   |
-| 20    |                                  [Temiz Kod Yazımı](./20_Day_Writing_clean_codes/20_Day_Writing_clean_codes.md)                                   |
 | 21    |                                                          [DOM](./21_Day_DOM/21_Day_DOM.md)                                                          |
 | 22    |                            [Dom Manipülasyonu](./22_Day_Manipulating_DOM_object/22_Day_Manipulating_DOM_object.md)                            |
 | 23    |                                        [Olay Tetikleyiciler](./23_Day_Event_listeners/23_Day_Event_listeners.md)                                        |
