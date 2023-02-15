@@ -1,40 +1,28 @@
 <div align="center">
-  <h1> 30 Günde JavaScript: Egzersiz Cevapları | Gün 4</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Oluşturucu:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> Ocak, 2020</small>
-</sub>
-
-<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/erdemalptugoksuz/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  <h1>Egzersiz Cevapları | Koşullar</h1>
+  <br>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/erdemalptugoksuz/">
+    <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
   <a class="header-badge" target="_blank" href="https://twitter.com/heyahtuput">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Erdem Alptuğ?style=social">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Erdem Alptuğ?style=social">
   </a><br>
-<sub>Düzenleyen:
-<a href="https://www.linkedin.com/in/erdemalptugoksuz/" target="_blank">Erdem Alptuğ Öksüz</a><br>
-<small> Şubat, 2023</small>
-</sub>
-
+  <sub>Düzenleyici:
+    <a href="https://www.linkedin.com/in/erdemalptugoksuz/" target="_blank">Erdem Alptuğ Öksüz</a><br>
+    <small> Şubat, 2023</small>
+  </sub>
 </div>
 
 ## Desteklenen Diller
-| Bayrak |                                                                       Dil                                                                        |
-| ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 🇬🇧   |                                                             [İngilizce](/English/04_Day_Conditionals/04_Day_Conditionals.md)                                                             |
-| 🇹🇷   |                                                             [Türkçe](/Turkish/04_Day_Conditionals/04_Day_Conditionals.md)                                                             |
+| Bayrak  |                                                                       Dil                                                                           |
+| ----- | :----------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 🇬🇧    |                                                             [İngilizce](/English/Day_04/Day_04.md)                                                      |
+| 🇹🇷    |                                                             [Türkçe](/Turkish/Day_04/Day_04.md)                                                      |
 
 ## Düzenleyiciyi Destekle
-| Link Adı |                                                                       Link                                                                        |
-| ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Link 1   |                                                            [Ad Link](https://ay.live/Dn9gUE)
+| Link Adı |                                                                        Link                                                                        |
+| ----- | :----------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Link 1   |                                                             [Reklamlı Link](https://ay.live/AK4n)
 
 ## 💻 Gün 4: Egzersizler
 
@@ -197,4 +185,4 @@ switch (month) {
 console.log(`${month} has ${days} days`)
 ```
 
-[<< Gün 3](/Turkish/03_Day_Booleans_operators_date/03_Day_Booleans_operators_date.md) | [Gün 5 >>](/Turkish/05_Day_Arrays/05_Day_Arrays.md)
+[<< Gün 3](/Turkish/Day_03/Day_03.md) | [Gün 5 >>](/Turkish/Day_05/Day_05.md)
